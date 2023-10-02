@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Alone+%3C3; Game Developer!!!;Welcome+to+my+profile!" alt="Title"></img>
-
+</div>
 ## About Me
 
 - 💳: My full name is Ayush Tiwari <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
