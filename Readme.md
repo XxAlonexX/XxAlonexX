@@ -4,11 +4,11 @@
 ## About
 
 - 💳: My full name is Ayush Tiwari <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
-- 🏫: I'm currently preparing for game dev Exam.
+- 🏫: I'm currently pursuing B-Tech.
 - 📚: My major is Game Development
 - 🌏: I'm living now in **Lucknow, Uttar Pradesh, India**
 - 😅: I'm a intermediate in coding🐧
-- 🧐: I'm interested in coding, sleeping, and watching film
+- 🧐: I'm interested in coding, sleeping, and games
 - 😎: My quote is **_"Sometimes you have to act fool to fool the fool who this he is fooling you."_**
 - 👌: Fun fact: have problem 👉: sleep, happy  👉: sleep, sad  👉: sleep ~~ everything  👉: sleep
 
