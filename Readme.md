@@ -224,8 +224,8 @@
 	<a href="https://github.com/XxAlonexX/Steam_Project">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxAlonexX&repo=Steam_Project&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/XxAlonexX/X-language_learning">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxAlonexX&repo=X-language_learning&theme=tokyonight" alt="GitHub Stats" />
+	<a href="https://github.com/XxAlonexX/AI-Agent">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=XxAlonexX&repo=AI-Agent&theme=tokyonight" alt="GitHub Stats" />
     	</a>
   </p>
 </div>
