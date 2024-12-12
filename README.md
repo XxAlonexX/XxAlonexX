@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 
-![Preview](./Assets/bg.webp)
+![Preview](./Assets/me.gif)
 
 
 ### Hi!👋 I'm XxAlonexX
