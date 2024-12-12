@@ -1,8 +1,7 @@
 <div align="center">
 </div>
 
-![Preview](./Assets/me.gif)
-
+<img src="./Assets/me.gif" alt="Preview" width="100%" style="width: 100%; height: auto;">
 
 ### Hi!👋 I'm XxAlonexX
 
