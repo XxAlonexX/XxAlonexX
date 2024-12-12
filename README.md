@@ -28,7 +28,7 @@ I'm currently studying Artificial Intelligence and Machine Learning at NIET. Fou
   <img src="https://github-profile-trophy.vercel.app/?username=XxAlonexX&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="XxAlonexX" />
 </p>
 
-<a href="https://github-readme-streak-stats.herokuapp.com?user=XxAlonexX&theme=tokyonight-duo"><img src="https://github-readme-streak-stats.herokuapp.com?user=XxAlonexX&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=XxAlonexX&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## **🧋QT Counter**
 
